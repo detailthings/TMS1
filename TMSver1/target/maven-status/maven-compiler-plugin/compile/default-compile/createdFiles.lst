@@ -1,2 +1,7 @@
-com\mycompany\tmsver1\resources\JakartaEE10Resource.class
 com\mycompany\tmsver1\JakartaRestConfiguration.class
+controller\Teacher.class
+controller\DBContext.class
+com\mycompany\tmsver1\resources\JakartaEE10Resource.class
+controller\Admin.class
+controller\User.class
+entity\student.class

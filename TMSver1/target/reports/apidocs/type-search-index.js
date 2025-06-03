@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"controller","l":"DBContext"},{"p":"com.mycompany.tmsver1.resources","l":"JakartaEE10Resource"},{"p":"com.mycompany.tmsver1","l":"JakartaRestConfiguration"}];updateSearchResults();
